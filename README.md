@@ -32,7 +32,7 @@ Simple Python project for hostel hygiene reporting.
     1. Install Python
          -Make sure Python(3.x) is installed on your computer.
     2.  Download the Project
-         -by this link 
+         -by this link( https://github.com/raushansingh2602/HOSTEL-HYGENE-REPORT-SYSTEM.git )
     3.  Open the Project Folder
           -check whether this project file located (hostel_hygiene_report.py)
     4.  Run the Python Script
